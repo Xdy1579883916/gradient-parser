@@ -1,17 +1,17 @@
 {
-  "name": "pkg-placeholder",
+  "name": "@dy-kit/gradient-parser",
   "type": "module",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "packageManager": "pnpm@10.6.2",
-  "description": "_description_",
+  "description": "一个轻量的 CSS 渐变解析与字符串化工具，支持将 linear-gradient(...)、radial-gradient(...) 等解析为 AST、再序列化回 CSS，或转换为 SVG <linearGradient>/<radialGradient> 片段。",
   "author": "XiaDeYu <1579883916@qq.com>",
   "license": "MIT",
-  "homepage": "https://github.com/Xdy1579883916/pkg-placeholder#readme",
+  "homepage": "https://github.com/Xdy1579883916/gradient-parser#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xdy1579883916/pkg-placeholder.git"
+    "url": "git+https://github.com/Xdy1579883916/gradient-parser.git"
   },
-  "bugs": "https://github.com/Xdy1579883916/pkg-placeholder/issues",
+  "bugs": "https://github.com/Xdy1579883916/gradient-parser/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
